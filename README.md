@@ -51,4 +51,4 @@
 <h2>💼 Projects</h2>
 <h3>📝 Advanced To-do Application<h4>A task management app with deadline tracking, priorities, and smooth UI animations. Built with React, Redux Toolkit, Tailwind CSS, and Framer Motion.</h4>
   </h3>
-
+<h3>📦 Typical Shop <h4>A basic online shop built with TypeScript and React, fetching product data from FakeStoreAPI using RTK Query.</h4></h3>
