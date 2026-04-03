@@ -49,6 +49,6 @@
 ![UI Libraries](https://img.shields.io/badge/UI_Libraries-shadcn,_mui,_antd-blueviolet?style=for-the-badge)
 
 <h2>💼 Projects</h2>
+<h3>📦 Agrivia <h4>A full-featured online store for agricultural products built with Next.js 16, Prisma, and PostgreSQL. Targeted at the Kazakhstani agricultural market.</h4></h3>
 <h3>📝 Advanced To-do Application<h4>A task management app with deadline tracking, priorities, and smooth UI animations. Built with React, Redux Toolkit, Tailwind CSS, and Framer Motion.</h4>
   </h3>
-<h3>📦 Typical Shop <h4>A basic online shop built with TypeScript and React, fetching product data from FakeStoreAPI using RTK Query.</h4></h3>
